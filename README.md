@@ -3,7 +3,7 @@ Iran-cities is the most accurate database of city, county, province and villages
 
 <div dir="rtl">
   
-# بانک اطلاعات(دیتابیس) شهر ها و استان های ایران
+# بانک اطلاعات(دیتابیس) شهر ها و استان های ایران سازگار با noSql
 
 
 # License
