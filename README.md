@@ -1,4 +1,12 @@
-### شهر ها و استان های ایران برای مونگو
-این دیتابیس به صورت رابطه ای بین استان ها و شهر ها ایران ایجاد شده است و بهینه سازی شده است برای دیتابیس های NoSql(mongodb)
+# iran-cities
+Iran-cities is the most accurate database of city, county, province and villages of Iran. Based on official released data.
 
-تمام اطلاعات داخل یک ارایه ذخیره شده است برای امپورت کردن اطلاعات حتما به این نکته دقت کنید
+<div dir="rtl">
+  
+# بانک اطلاعات(دیتابیس) شهر ها و استان های ایران
+
+
+# License
+MIT License
+
+Created by Navid Rezadoost https://github.com/navidrezadoost/
