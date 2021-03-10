@@ -7,7 +7,7 @@ Data of provinces and cities of Iran in the form of Jason file for Mongo.
 
 iran-cities بانک اطلاعاتی حاوی اخرین به روز رسانی ها و تقسیمات کشوری در استان ها و شهر ها است
 
-![Divisions of Iran](https://parsstock.ir/LargePhotos/10004/1008121-%D9%86%D9%82%D8%B4%D9%87-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D8%B1%D9%86%DA%AF%DB%8C-%D8%AF%D8%B1-%D8%B1%D9%86%DA%AF-%D9%87%D8%A7%DB%8C-%D8%B1%D9%88%D8%B4%D9%86.jpg)
+![Divisions of Iran](/images/1008121-نقشه-جمهوری-اسلامی-ایران-با-استان-های-رنگی-در-رنگ-های-روشن.jpg)
     
 تمامی شهر ها در این دستابیس با استان های شان در ارتباط هستند
     
@@ -49,8 +49,6 @@ iran-cities بانک اطلاعاتی حاوی اخرین به روز رسانی
 فایل دیگر states که ObjectId تمام شهر های مربوط به هر استان درون ان در یک ارایه قرار دارد
 
 
-![sample regions of Iran](/docs/images/sample_regions.png)
-![sample queries on iran-cities](/docs/images/sample_queries.png)
 
 </div>
 
