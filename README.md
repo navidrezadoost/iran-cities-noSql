@@ -58,4 +58,4 @@ iran-cities بانک اطلاعاتی حاوی اخرین به روز رسانی
 # License
 MIT License
 
-Created by Ahmad Azizi https://github.com/navidrezadoost/
+Created by Navid Rezadoost https://github.com/navidrezadoost/
