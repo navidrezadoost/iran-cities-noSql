@@ -1,0 +1,125 @@
+[{
+        "state": "آذربایجان شرقی",
+        "_id": ObjectId("60486e2f98940cc14406ca54")
+    },
+    {
+        "state": "آذربایجان غربی",
+        "_id": ObjectId("60486f5098940cc14406cac6")
+    },
+    {
+        "state": "اردبیل",
+        "_id": ObjectId("6048700ec917be5bd82d3d62")
+    },
+    {
+        "state": "اصفهان",
+        "_id": ObjectId("6048700ec917be5bd82d3d63")
+    },
+    {
+        "state": "البرز",
+        "_id": ObjectId("6048700ec917be5bd82d3d64")
+    },
+    {
+        "state": "ایلام",
+        "_id": ObjectId("6048700ec917be5bd82d3d65")
+    },
+    {
+        "state": "بوشهر",
+        "_id": ObjectId("6048700ec917be5bd82d3d66")
+    },
+    {
+        "state": "تهران",
+        "_id": ObjectId("6048700ec917be5bd82d3d67")
+    },
+    {
+        "state": "چهارمحال و بختیاری",
+        "_id": ObjectId("6048700ec917be5bd82d3d68")
+    },
+    {
+        "state": "خراسان جنوبی",
+        "_id": ObjectId("6048700ec917be5bd82d3d69")
+    },
+    {
+        "state": "خراسان رضوی",
+        "_id": ObjectId("6048700ec917be5bd82d3d6a")
+    },
+    {
+        "state": "خراسان شمالی",
+        "_id": ObjectId("6048700ec917be5bd82d3d6b")
+    },
+    {
+        "state": "خوزستان",
+        "_id": ObjectId("6048700ec917be5bd82d3d6c")
+    },
+    {
+        "state": "زنجان",
+        "_id": ObjectId("6048700ec917be5bd82d3d6d")
+    },
+    {
+        "state": "سمنان",
+        "_id": ObjectId("6048700ec917be5bd82d3d6e")
+    },
+    {
+        "state": "سیستان و بلوچستان",
+        "_id": ObjectId("6048700ec917be5bd82d3d6f")
+    },
+    {
+        "state": "فارس",
+        "_id": ObjectId("6048700ec917be5bd82d3d70")
+    },
+    {
+        "state": "قزوین",
+        "_id": ObjectId("6048700ec917be5bd82d3d71")
+    },
+    {
+        "state": "قم",
+        "_id": ObjectId("6048700ec917be5bd82d3d72")
+    },
+    {
+        "state": "کردستان",
+        "_id": ObjectId("6048700ec917be5bd82d3d73")
+    },
+    {
+        "state": "کرمان",
+        "_id": ObjectId("6048700ec917be5bd82d3d74")
+    },
+    {
+        "state": "کرمانشاه",
+        "_id": ObjectId("6048700ec917be5bd82d3d75")
+    },
+    {
+        "state": "کهگیلویه وبویراحمد",
+        "_id": ObjectId("6048700ec917be5bd82d3d76")
+    },
+    {
+        "state": "گلستان",
+        "_id": ObjectId("6048700ec917be5bd82d3d77")
+    },
+    {
+        "state": "گیلان",
+        "_id": ObjectId("6048700ec917be5bd82d3d78")
+    },
+    {
+        "state": "لرستان",
+        "_id": ObjectId("6048700ec917be5bd82d3d79")
+    },
+    {
+        "state": "مازندران",
+        "_id": ObjectId("6048700ec917be5bd82d3d7a")
+    },
+    {
+        "state": "مرکزی",
+        "_id": ObjectId("6048700ec917be5bd82d3d7b")
+    },
+    {
+        "state": "هرمزگان",
+        "_id": ObjectId("6048700ec917be5bd82d3d7c")
+    },
+    {
+        "state": "همدان",
+        "_id": ObjectId("6048700ec917be5bd82d3d7d")
+    },
+    {
+        "state": "یزد",
+        "_id": ObjectId("6048700ec917be5bd82d3d7e")
+    }
+]
