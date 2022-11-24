@@ -3215,49 +3215,25 @@
     "city": "کهک",
     "state": ObjectId("6048700ec917be5bd82d3d72")
 } {
-    "_id": ObjectId("61bae70c9accd671e8246969"),
-    "city": "کهک",
-    "state": ObjectId("6048700ec917be5bd82d3d73")
-} {
     "_id": ObjectId("61bae70c9accd671e824696a"),
     "city": "قم",
     "state": ObjectId("6048700ec917be5bd82d3d72")
 } {
-    "_id": ObjectId("61bae70c9accd671e824696b"),
-    "city": "قم",
-    "state": ObjectId("6048700ec917be5bd82d3d73")
-} {
     "_id": ObjectId("61bae70c9accd671e824696c"),
     "city": "سلفچگان",
     "state": ObjectId("6048700ec917be5bd82d3d72")
-} {
-    "_id": ObjectId("61bae70c9accd671e824696d"),
-    "city": "سلفچگان",
-    "state": ObjectId("6048700ec917be5bd82d3d73")
-} {
+}{
     "_id": ObjectId("61bae70c9accd671e824696e"),
     "city": "جعفریه",
     "state": ObjectId("6048700ec917be5bd82d3d72")
-} {
-    "_id": ObjectId("61bae70c9accd671e824696f"),
-    "city": "جعفریه",
-    "state": ObjectId("6048700ec917be5bd82d3d73")
-} {
+}{
     "_id": ObjectId("61bae70c9accd671e8246970"),
     "city": "قنوات",
     "state": ObjectId("6048700ec917be5bd82d3d72")
-} {
-    "_id": ObjectId("61bae70c9accd671e8246971"),
-    "city": "قنوات",
-    "state": ObjectId("6048700ec917be5bd82d3d73")
-} {
+}{
     "_id": ObjectId("61bae70c9accd671e8246972"),
     "city": "دستجرد",
     "state": ObjectId("6048700ec917be5bd82d3d72")
-} {
-    "_id": ObjectId("61bae70c9accd671e8246973"),
-    "city": "دستجرد",
-    "state": ObjectId("6048700ec917be5bd82d3d73")
 } {
     "_id": ObjectId("61bae70c9accd671e8246974"),
     "city": "قروه",
